@@ -1,3 +1,10 @@
+/* DrewSnow v0.0.1 | (c) https://github.com/SnowLord7 */
+
+/*
+ * Script by Drew Snow for miscellaneous uses 
+ * This script is for educational purposes only, I am in no way responsible for anything that happens in result.
+ */
+
 function Exploit () {
     this.clear_cookies();
     this.stop();
