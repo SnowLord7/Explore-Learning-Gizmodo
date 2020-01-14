@@ -6,6 +6,8 @@
  */
 
 function Exploit () {
+    if (!document.location.host.includes('explorelearning.com')) document.location.href = 'https://www.explorelearning.com/'
+    
     this.clear_cookies();
     this.stop();
 }
